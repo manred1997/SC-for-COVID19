@@ -2,6 +2,9 @@
 
 This is a rule-based approach for SC
 
+Flow system:
+<img src="asset/Triage flow for covid_vn.png"/>
+
 ### Usage
 ```
 from src.app import Application
